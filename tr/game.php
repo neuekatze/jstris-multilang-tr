@@ -183,4 +183,20 @@ return [
     'solidAtk' => 'Katı olarak saldırı',
     'noFW' => 'NoFourwide',
     'hostStart' => 'HostStart',
+
+    //qazw
+    'skin' => 'Skin',
+    'skin2' => 'Blok skin\'i',
+    'DMsound' => 'Özel mesaj bildirimi',
+    'guestRooms' => 'Misafir odaları',
+    'bots' => 'Botlar',
+    'rulesets' => 'Kural setleri',
+    'solidGarbageSpeed' => 'Katı çöp hızı',
+    'gapWidth' => 'Aralık boyu',
+    'gInv' => 'Çöpu ters et',
+    'lines' => 'Satırlar',
+    'statistics' => 'İstatistik',
+    'vs' => 'VS',
+    'wasted' => 'İsraf',
+    'expand' => 'Genişlet',
 ];
